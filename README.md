@@ -50,6 +50,18 @@ Other dynamically typed languages are:
 - Javascript
 
 <h3> Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;</h3>
+<h4>Undefined</h4>
+1.	The undefined property indicates that a variable has not been declared at all.
+2.	It is an ECMAScript1 (ES1) feature.
+3.	Its supported browsers are -:
+Chrome , Microsoft Edge , Internet Explorer , Firefox , Safari , Opera Mini
+4.	It is a global property.
 
-<h4>Undefined</h4>&nbsp; <h4>Null</h4>
+<h4>Null</h4>
+1.  The value null represents the absence of any object value.
+2.  It is Primitive value in Javascript.
+3.  Its syntax is -:
+null
+4.  	Its supported browsers are -:
+Chrome , Microsoft Edge , Internet Explorer , Firefox , Safari , Opera Mini
 
