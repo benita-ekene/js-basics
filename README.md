@@ -4,8 +4,8 @@
 Outside the browser JavaScript runs on Node
 
 <h3>5 things Javascript can do.</h3>
-JavaScript can be used to:
-. build full blown Web or Mobile applications as well as  like , ,  or even .
+JavaScript can be used to:&nbsp;
+. build full blown Web or Mobile applications.&nbsp;
 . build Real-time Networking Applications like Chats.
 . Video streaming services.
 . command line tools.
