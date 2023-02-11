@@ -7,9 +7,9 @@ Outside the browser JavaScript runs on Node
 JavaScript can be used to: <br>
 . build full blown Web or Mobile applications.<br>
 . build Real-time Networking Applications like Chats.<br>
-. Video streaming services.<br>
-. command line tools.<br>
-. games applications.<br>
+. build Video streaming services.<br>
+. build command line tools.<br>
+. build games applications.<br>
 
 <h3>When was ECMAScript first released ?</h3>
 The first version of ECMAScript was released in 1997
